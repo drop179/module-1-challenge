@@ -4,13 +4,13 @@
 # Description
 ________________________
 
-This Challenge is an on-the-job ticket, which means I need to modify the starter code.With Challenge I learn a very important aspect of web development: accessibility.
-My motivation for this challenge - to take existing code and refactor it (recall that to refactor code is to improve it without changing what it does) to meet a certain set of standards or implement a new technology.
+This Challenge is an opportunity and the first step of learning front-end-development. I modified the starter code that helped me to learn a very important aspect of web development: accessibility.
+My motivation for this challenge is to learn Front end development, which is a fantastic career path in technology. Web development - profession is growing rapidly and there is a significant shortage of talents. Its a big opportunity ahead as the world becomes more technology-driven.
+The task is to take existing code and refactor it (recall that to refactor code is to improve it without changing what it does).
 In this Challenge, working to refactor an existing site to make it more accessible for marketing agency.
+Building this project is the first step of front-end-developer career
 
 ## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -18,6 +18,12 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [License](#license)
 
 ## Installation
+_______________________________________________________
+
+Requirements
+1. Download starter code
+2. Create a new repo and clone it to your PC by using git clone command and copy and paste SSH key
+3. s
 
 
 
