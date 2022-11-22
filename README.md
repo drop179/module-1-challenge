@@ -29,10 +29,13 @@ Requirements
 
 ## Usage
 
+    ```md
+    ![alt text](assets/images/screenshot.png)
+    ```
 
 ## Credits
 
-01-html-css-git-challenge-demo.png
+
 
 ## License
 
