@@ -18,23 +18,26 @@ Building this project is the first step of front-end-developer career
 - [License](#license)
 
 ## Installation
-_______________________________________________________
+
 
 Requirements
-1. Download starter code
-2. Create a new repo and clone it to your PC by using git clone command and copy and paste SSH key
-3. When code is ready deploy it to github repo
+1. Download Visual Studio Code
+2. Install HTML CSS Javascript extensions
+3. Install Live Server Extension
 
 
 
-## Usage
+##
 
- ![Challenge](../../../../../../C:/Users/Nick/Desktop/BootCamp/module-1-challenge/module-1-challenge/starter/assets/images/01-html-css-git-challenge-demo.png)
+1. Clone this repository:
 
-## Credits
+git clone https://github.com/drop179/module-1-challenge.git
+
+2. Use the git add, git commit, and git push commands to save and push your code to your GitHub repository.
+
 
 
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. 
+The GNU General Public License (GNU GPL or simply GPL) is a series of widely used free software licenses that guarantee end users the four freedoms to run, study, share, and modify the software.[7] The license was the first copyleft for general use and was originally written by the founder of the Free Software Foundation (FSF), Richard Stallman, for the GNU Project. The license grants the recipients of a computer program the rights of the Free Software Definition.[8] These GPL series are all copyleft licenses, which means that any derivative work must be distributed under the same or equivalent license terms. It is more restrictive than the Lesser General Public License and even further distinct from the more widely used permissive software licenses BSD, MIT, and Apache. 
