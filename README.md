@@ -29,9 +29,9 @@ Requirements
 
 ## Usage
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+
+
+ ![Challenge](../assets/images/01-html-css-git-challenge-demo.png)
 
 ## Credits
 
