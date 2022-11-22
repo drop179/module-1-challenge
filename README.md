@@ -23,7 +23,7 @@ _______________________________________________________
 Requirements
 1. Download starter code
 2. Create a new repo and clone it to your PC by using git clone command and copy and paste SSH key
-3. s
+3. When code is ready deploy it to github repo
 
 
 
@@ -32,7 +32,7 @@ Requirements
 
 ## Credits
 
-
+01-html-css-git-challenge-demo.png
 
 ## License
 
