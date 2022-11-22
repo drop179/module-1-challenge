@@ -29,9 +29,7 @@ Requirements
 
 ## Usage
 
-
-
- ![Challenge](../assets/images/01-html-css-git-challenge-demo.png)
+ ![Challenge](../../../../../../C:/Users/Nick/Desktop/BootCamp/module-1-challenge/module-1-challenge/starter/assets/images/01-html-css-git-challenge-demo.png)
 
 ## Credits
 
